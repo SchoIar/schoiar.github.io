@@ -1,34 +1,13 @@
-# Cleanfolio
+# Cleanfolio Minimal
 
-Based on https://rajshekhar26.github.io/cleanfolio, all credits to them. 
+A clean and simple portfolio template built with plain HTML, CSS and JavaScript.
 
+## Preview
 
-### How to use
+[![imgur](https://i.imgur.com/5z7cvMz.gif)](https://rajshekhar26.github.io/cleanfolio-minimal)
 
-- Open `public/index.html` and replace -
-
-`<title>John Smith</title>` with `<title>Your Name</title>`.
-
-- Open `src/portfolio.js` and make changes.
-
-### Deployment
-
-- Go to `package.json` file and replace -
-
-`"homepage": "https://rajshekhar26.github.io/cleanfolio"`
-
-with `"homepage": "https://yourusername.github.io"`.
-
-- Push the changes.
-
-- Build and deploy -
-
-```shell
-yarn build
-yarn deploy
-```
+[See Live](https://rajshekhar26.github.io/cleanfolio-minimal)
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-# schoiar.github.io
