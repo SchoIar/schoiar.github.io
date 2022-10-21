@@ -1,5 +1,5 @@
 const body = document.body
-
+//All credits for this script goes to the creator of Cleanfolio: https://github.com/rajshekhar26/cleanfolio
 const btnTheme = document.querySelector('.fa-moon')
 const btnHamburger = document.querySelector('.fa-bars')
 
